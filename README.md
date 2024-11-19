@@ -1,4 +1,6 @@
-### study-of-basic-gates
+**NAME:NAVEENKUMAR.M**
+
+**REF NO:24900580**
 
 **AIM:** 
 
@@ -49,7 +51,9 @@ Y= A⊕B
 The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
 Y= A⊕B
 
-**Procedure** 
+**Procedure**
+
+
 
 1.	Type the program in Quartus software.
 
@@ -63,17 +67,25 @@ Y= A⊕B
 
 
 **PROGRAM**
+![Screenshot 2024-11-17 090607](https://github.com/user-attachments/assets/b4af6eac-ea13-43fc-8505-3d2ef03ccd07)
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: RegisterNumber: 24900580
  
 **Logic symbol & Truthtable**
+![Screenshot 2024-11-17 101644](https://github.com/user-attachments/assets/036878e7-5c08-496e-bc28-cbcc4de25d5b)
 
 **RTL realization Output:** 
+![Screenshot 2024-11-17 094627](https://github.com/user-attachments/assets/b33be7f2-ee28-4522-9a92-6e6085178114)
 
 **RTL**
 
+![Screenshot 2024-11-17 093903](https://github.com/user-attachments/assets/5a7e897e-514f-4593-a719-aa5c7e0b9562)
+
 **Result:**
+
+Thus to study and verify the truth table of logic gates in Quartus II using Verilog programming
+sucessfully.
 
 
